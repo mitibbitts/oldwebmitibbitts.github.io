@@ -3,8 +3,8 @@ h2 {color: purple;width=800;}
 p {color: orange;width=800;}
 #Navigation {width:800px; background-color: gray; text-align:center; text-align:top }
 #Nav-button {text-align:center;background-color: #802201; background-image: repeating-angular-gradient(326deg, #802201 0%, #210d10 74%);}
-#Meezer {float:right;width="200";}
-#MeezPen {float:right;width="200";}
-#Chicken {float:right; width="200"; rotation:"270";}
-#Selfie1 {float:left; width="250";}
-#Selfie2 {float:left; width="250";}
+#Meezer {float:up;float:right;width="400";}
+#MeezPen {float:right;width="400";}
+#Chicken {float:down;float:right; width="400"; rotation:"270";}
+#Selfie1 {float:up; float:left; width="450";}
+#Selfie2 {float:left; width="450";}
