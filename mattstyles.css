@@ -1,9 +1,9 @@
 body {
   color: orange;
 }
-h1 {color: red; background-color:blue; opacity: 0.4;}
-h2 {color: purple:}
-p {color: orange;}
+h1 {color: red; background-color:blue; opacity: 0.4; width=800;}
+h2 {color: purple;width=800;}
+p {color: orange;width=800;}
 #Navigation {width:800px; background-color: gray; text-align:center; text-align:top }
 #Nav-button {text-align:center;background-color:red;}
 #Meezer {text-align:right, float;width=100px;}
