@@ -1,9 +1,9 @@
 h1 {color: red; background-color:blue; opacity: 0.4; width=800;text-align:left =; width="800";}
 h2 {color: purple;width=800;text-align:left; width="800"; }
 p {color: orange;width=800; text-align:left;width="800";}
-#Navigation {width:800px; background-color: gray; text-align:left; text-align:top; }
+#Navigation {width:800px; background-color: gray;div style = "position:absolute; left:0px; top:0px;";}
 #Nav-button {text-align:center;background-color: #802201; background-image: repeating-linear-gradient(326deg, #802201 0%, #210d10 74%);}
-#pictures {width=200px; background-color:maroon; text-align:right;}
+#pictures {width=200px; background-color:maroon;div style = "position:absolute; right:0px; top:0px;";}
 "#Meezer {float:top;float:right;width=400px;}"
 "#MeezPen {float:right;width=400px;}"
 "#Chicken {float:bottom;float:right; width=400px; rotate(270degrees);}"
