@@ -8,6 +8,6 @@ p {color: orange;width=800;}
 #Nav-button {text-align:center;background-color: #802201; background-image: repeating-angular-gradient(326deg, #802201 0%, #210d10 74%);}
 #Meezer {text-align:right, float;width="100";}
 #MeezPen {text-align:right, float;width="100";}
-#Chicken {text-align:right, float; width="100";}
+#Chicken {text-align:right, float; width="100"; rotation:"270";}
 #Selfie1 {
 #Selfie2 {
