@@ -3,6 +3,7 @@
     <head>
         <title>Matthew's Programming Portfolio - About</title>
         <meta charset="utf-8">
+        <link rel="stylesheet" href="mattstyles.css">
     </head>
  <body>
         <center> <img src="csc106_banner.jpg" alt="Banner For Computer Science 106" width="1000">
