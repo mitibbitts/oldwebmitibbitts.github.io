@@ -5,6 +5,6 @@ p {color: orange;width=800;}
 #Nav-button {text-align:center;background-color: #802201; background-image: repeating-angular-gradient(326deg, #802201 0%, #210d10 74%);}
 #Meezer {float:top;float:right;width=400px;}
 #MeezPen {float:right;width=400px;}
-#Chicken {float:bottom;float:right; width=400px; rotate("270");}
+#Chicken {float:bottom;float:right; width=400px; rotate(270);}
 #Selfie1 {float:top; float:left; width=450px;}
 #Selfie2 {float:left; width=450px;}
