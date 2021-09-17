@@ -5,4 +5,5 @@ body {
 h1 {color: red;}
 h2 {color: purple:}
 p {color: orange;}
-#Navigation {width:800px; background-color: gray;}
+#Navigation {width:800px; background-color: gray; text-align:center;}
+#Nav-button {text-align:center;}
