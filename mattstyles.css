@@ -5,7 +5,7 @@ h1 {color: red; background-color:blue; opacity: 0.4; width=800;}
 h2 {color: purple;width=800;}
 p {color: orange;width=800;}
 #Navigation {width:800px; background-color: gray; text-align:center; text-align:top }
-#Nav-button {text-align:center;background-color: #802201; background-image: linear-gradient(326deg, #802201 0%, #210d10 74%);}
-#Meezer {text-align:right, float;width=100px;}
-#MeezPen {text-align:right, float;width=100px;}
-#Chicken {text-align:right, float; width=100px;}
+#Nav-button {text-align:center;background-color: #802201; background-image: angular-gradient(326deg, #802201 0%, #210d10 74%);}
+#Meezer {text-align:right, float;width="100";}
+#MeezPen {text-align:right, float;width="100";}
+#Chicken {text-align:right, float; width="100";}
