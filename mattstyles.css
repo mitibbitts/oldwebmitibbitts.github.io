@@ -6,6 +6,6 @@ h2 {color: purple:}
 p {color: orange;}
 #Navigation {width:800px; background-color: gray; text-align:center; text-align:top }
 #Nav-button {text-align:center;background-color:red;}
-#Meezer {text-align:right, float}
-#MeezPen {text-align:right, float}
-#Chicken {text-align:right, float}
+#Meezer {text-align:right, float;width=100px;}
+#MeezPen {text-align:right, float;width=100px;}
+#Chicken {text-align:right, float; width=100px;}
