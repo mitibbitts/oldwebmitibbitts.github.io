@@ -3,7 +3,7 @@ h2 {color: purple;width=800;text-align:left; width=800;}
 p {color: orange;width=800; text-align:left;div style = width:800px; word-wrap:normal;}
 #Navigation {width:800px; background-color: gray;div style = "position:absolute; left:0px; top:0px;";}
 #Nav-button {text-align:center;background-color: #802201; background-image: repeating-linear-gradient(326deg, #802201 0%, #210d10 74%);}
-#pictures {background-color:maroon;float:right; div style="position:relative, top:0px;";}
+#pictures {background-color:maroon;float:right; div style="position:absolute, top:0px;";}
 "#Meezer {float:top;float:right;width=400px;}"
 "#MeezPen {float:right;width=400px;}"
 "#Chicken {float:bottom;float:right; width=400px; rotate(270degrees);}"
