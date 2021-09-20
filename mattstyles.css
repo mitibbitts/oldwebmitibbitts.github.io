@@ -1,4 +1,4 @@
-h1 {color: red; background-color:blue; opacity: 0.4; width=800;text-align:left =; width=800;}
+h1 {color: red; background-color:blue; opacity: 0.4; width=800;text-align:left =; width=800; word-wrap:normal;}
 h2 {color: purple;width=800;text-align:left; width=800;}
 p {color: orange;width=800; text-align:left;div style = width:800px;}
 #Navigation {width:800px; background-color: gray;div style = "position:absolute; left:0px; top:0px;";}
